@@ -1,16 +1,28 @@
-### Hi there 👋, My name is Sanjida Tahmin Lupa
-![](https://github.com/sanjida-hub123/sanjida-hub123/blob/main/download.jpeg)
+<h1 align="center">Hi 👋, I'm Sanjida Tahmin Lupa</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-I am a Front-End Developer. I live in Barlekha, Bangladesh, and have a strong passion for coding and technology. I enjoy learning new skills and building projects that enhance my development journey.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjida-hub123&label=Profile%20views&color=0e75b6&style=flat" alt="sanjida-hub123" /> </p>
 
-Skills: HTML / CSS / Bootstrap / Tailwind CSS / JavaScript
+- 🔭 I’m currently working on *E-commerce Website*
 
-- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning *Frontend, Backend, Full-Stack, UI/UX*
 
+- 💬 Ask me about *HTML, CSS, JavaScript, Bootstrap, Tailwind, React,*
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sanjida-hub123)  
+- 📫 How to reach me *sanjidalupa90@gmail.com*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/sanjida-hub123)](https://github.com/anuraghazra/github-readme-stats)
+- 📄 Know about my experiences [https://github.com/sanjida-hub123](https://github.com/sanjida-hub123)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/sanjida-hub123&show_icons=true)  
+- ⚡ Fun fact *I think I am funny 😆*
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/sanjida-hub123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sanjida-hub123" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjida-hub123&show_icons=true&locale=en&layout=compact" alt="sanjida-hub123" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjida-hub123&" alt="sanjida-hub123" /></p>
