@@ -9,7 +9,7 @@
 
 - 💬 Ask me about *HTML, CSS, JavaScript, Bootstrap, Tailwind, React,*
 
-- 📫 How to reach me *sanjidatahmin9@gmail.com*
+- 📫 How to reach me *sanjidalupa90@gmail.com*
 
 - 📄 Know about my experiences [https://github.com/sanjida-hub123](https://github.com/sanjida-hub123)
 
